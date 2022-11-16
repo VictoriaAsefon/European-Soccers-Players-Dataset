@@ -10,7 +10,6 @@ This is the first project for Udacity Data Analyst Nanodegree program. The proje
 4. Does the age of soccer players determine their height or weight?
 
 
-
 ### References
 - <a href="https://moonbooks.org/Articles/How-to-convert-a-dataframe-column-of-date-of-birth-DOB-to-column-of-age-with-pandas-in-python-/">https://moonbooks.org/Articles/How-to-convert-a-dataframe-column-of-date-of-birth-DOB-to-column-of-age-with-pandas-in-python-/</a></li>
 - <a href="https://datagy.io/histogram-python/">https://datagy.io/histogram-python/</a></li>
